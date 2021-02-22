@@ -1,0 +1,10 @@
+
+:host([theme~="primary"]) {
+    background-color: red;
+    color: black;
+}
+
+:host(.ping) {
+    background-color: green;
+    color: white;
+}
